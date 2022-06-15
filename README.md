@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SPrio-cs
 - 👀 I am a Software Engineer.
-- 🌱 I work on Ruby on Rails.
+- 🌱 I work on Ruby on Rails & ReactJS.
 - 📫 To reach me email at supriyom@crowdstaffing.com
 
 <!---
